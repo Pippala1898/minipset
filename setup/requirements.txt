@@ -1,0 +1,6 @@
+matplotlib
+more_itertools
+tensorboard
+jupyterlab
+notebook
+ipywidgets
