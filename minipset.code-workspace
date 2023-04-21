@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "minipset",
+			"path": "."
+		},
+		{
+			"name": "pre_models",
+			"path": "../pre_models"
+		}
+	],
+	"settings": {}
+}
